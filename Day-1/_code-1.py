@@ -1,4 +1,3 @@
-#WAP TO CALCULATE SUM OF FIRST N NATURAL NO
 n = int(input("Enter a number: "))
 
 sum = 0
